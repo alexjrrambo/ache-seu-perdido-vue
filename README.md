@@ -1,5 +1,8 @@
 # ache-seu-perdido-vue
 
+![Screenshot](home.png)
+![Screenshot](resultados.png)
+
 ## Project setup
 ```
 npm install
